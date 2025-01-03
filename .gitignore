@@ -1,0 +1,7 @@
+__pycache__/**
+build/**
+.qtcreator/**
+*.dxf
+**.dxf
+*.png
+**.png
